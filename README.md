@@ -1,8 +1,14 @@
 # ai-flappybirdclone-tensorflow.js-phaser3
 
-<p align="center">
-  AI Flappy Bird Clone with TensorFlow, phaser3, typescript, es6 and webpack4
-</p>
+AI Flappy Bird Clone with TensorFlow, phaser3, typescript, es6 and webpack4
+
+## What's left
+
+- [x] FlappyBird game using Phaser3
+- [x] Use TensorFlow.js to implement a basic reinforcement learning algorithm to enable ai play this game
+- [ ] Refactoring
+- [ ] Inline comments
+- [ ] Documentation
 
 ## Getting started
 
