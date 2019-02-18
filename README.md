@@ -1,6 +1,6 @@
-# ai-flappybirdclone-tensorflow.js-phaser3
+AI Flappy Bird Clone developed with TensorFlow, phaser3, typescript, es6 and webpack4. 
 
-AI Flappy Bird Clone with TensorFlow, phaser3, typescript, es6 and webpack4
+Demo: https://rankuptuts.github.io/projects/ai-flappybird-tensorflow/index.html
 
 ## What's left
 
