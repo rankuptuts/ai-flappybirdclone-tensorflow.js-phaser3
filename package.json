@@ -1,0 +1,25 @@
+{
+  "name": "ai-flappybirdclone-tensorflow-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack",
+    "prod": "SET NODE_ENV=production webpack --config ./webpack.production.config.js"
+  },
+  "author": "rank up tutorials",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.2.2",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.2",
+    "phaser": "^3.15.1"
+  }
+}
